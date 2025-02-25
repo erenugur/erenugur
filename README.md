@@ -1,4 +1,7 @@
 ## Hi there 👋
+• The languages that I often use are Python, C++, and C
+• My main interests are machine learning and embedded systems
+• I enjoy solving complex problems and working with others on projects
 
 <!--
 **erenugur/erenugur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
