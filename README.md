@@ -1,3 +1,3 @@
 - The languages that I often use are C++, C, and Python
-- My main interests are embedded systems and machine learning
+- My main interests are embedded systems, computer networks, and machine learning
 - I enjoy solving complex problems and working with others on projects
